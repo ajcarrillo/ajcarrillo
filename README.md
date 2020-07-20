@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... Dacodes
+- 🌱 I’m currently learning ... ReactJs
+- 👯 I’m looking to collaborate on ... ReactJs
+- 🤔 I’m looking for help with ... Vue PWA
+- 💬 Ask me about ... Laravel, VueJs and a little bit Django
+- 📫 How to reach me: ... [Twitter](https://twitter.com/ajCarrilloH)
+- ⚡ Fun fact: ... I'm a MTB newbie rider
+
 <!--
 **ajcarrillo/ajcarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
