@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... XiD
-- 🌱 I’m currently learning ... NestJS
-- 👯 I’m looking to collaborate on ... NestJS
-- 🤔 I’m looking for help with ... NestJS
+- 🔭 I’m currently working on ... Salvo Software
+- 🌱 I’m currently learning ... React/NestJs
+- 👯 I’m looking to collaborate on ... React/NestJs
+- 🤔 I’m looking for help with ... Vue/Laravel
 - 💬 Ask me about ... Laravel, VueJs and a little bit Django
 - 📫 How to reach me: ... [Twitter](https://twitter.com/ajCarrilloH)
 - ⚡ Fun fact: ... I'm a MTB newbie rider
