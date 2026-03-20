@@ -70,14 +70,14 @@ Beyond coding, I also manage project scope and backlog grooming, so I approach f
 ## 📊 GitHub Stats
 
 ### 👤 Personal
-![](https://github-readme-stats.vercel.app/api?username=ajcarrillo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-nine-phi-40.vercel.app/api?username=ajcarrillo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajcarrillo&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcarrillo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-nine-phi-40.vercel.app/api/top-langs/?username=ajcarrillo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏢 Salvo Software
-![](https://github-readme-stats.vercel.app/api?username=ajcarrilloSalvo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-nine-phi-40.vercel.app/api?username=ajcarrilloSalvo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajcarrilloSalvo&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcarrilloSalvo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-nine-phi-40.vercel.app/api/top-langs/?username=ajcarrilloSalvo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
