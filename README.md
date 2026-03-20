@@ -1,6 +1,6 @@
 # Hey, I'm Andrés 👋
  
-**Senior Fullstack Developer · Cancún, México**
+**Senior Fullstack Developer · Q.Roo, México**
  
 *I'm passionate about building scalable products, clean architectures, and great user experiences.*
  
